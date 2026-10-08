@@ -1,0 +1,7 @@
+Frequency Accuracy,+/-16 ppb,ITU-T G.8261 / G.8262
+Time Error (Absolute),Less than or equal to 15 microseconds,ITU-T G.8271 / 3GPP 38.104
+Relative Cell-to-Cell Phase Error,Less than or equal to 3 microseconds (TDD);Less than or equal to 260 nanoseconds for 30 kHz SCS,3GPP TS 38.133
+One-way Transport Latency (RU-to-DU),Less than or equal to 100-250 microseconds,IEEE 1914.1 / O-RAN WG4
+Packet Delay Variation,Less than 100 nanoseconds RMS,IEEE 1914.1 / ITU-T G.8261
+PTP Message Interval,16/32 packets per second typical,IEEE 1588 / G.8275.1
+SyncE Wander,Less than or equal to 0.1 UI p-p over 60 s,ITU-T G.8262

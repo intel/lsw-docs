@@ -1,0 +1,18 @@
+Maximum Latency, KPI, The maximum latency measured for a given core, cyclictest, Raw, μs
+Total Count above Threshold, , The count of the number of recorded latency values above 10 μs, cyclictest, Derived, N/A
+Aggregate Percentage at or below 10 μs, KPI, The count of the number of recorded latency values at or below 10 μs expressed as a percentage, cyclictest, Derived, %
+Max Latency, KPI, The maximum latency observed during the given runtime, hwlatdetect, Raw, μs
+Samples exceeding threshold, , The number of samples exceeding the target latency threshold, hwlatdetect, Raw, Count
+Maximum, KPI, The maximum latency observed during a busy loop, oslat, Raw, μs
+IRQ Timer Latency avg, , The average IRQ timer latency, timerlat, Raw, μs
+IRQ Timer Latency max, , The maximum IRQ timer latency, timerlat, Raw, μs
+Thread Timer Latency avg, , The average thread timer latency, timerlat, Raw, μs
+Thread Timer Latency max, , The maximum thread timer latency, timerlat, Raw, μs
+Ret Timer Latency avg, , The average timer latency for a user-space thread encompassing both kernel and user-space processing time for the given task, timerlat, Raw, μs
+Ret Timer Latency max, KPI, The maximum timer latency for a user-space thread encompassing both kernel and user-space processing time for the given task, timerlat, Raw, μs
+`Noise <https://docs.kernel.org/tools/rtla/rtla-hwnoise.html#:~:text=The%20Noise>`_, , The sum of all the noise latencies observed during the given runtime, hwnoise, Raw, μs
+`CPU Availability <https://docs.kernel.org/tools/rtla/rtla-hwnoise.html#:~:text=the%20%25%20CPU%20Aval>`_, KPI, The percentage of runtime that was free from noise related latencies, hwnoise, Raw, %
+`Max Noise <https://docs.kernel.org/tools/rtla/rtla-hwnoise.html#:~:text=The%20Max%20Noise>`_, , The maximum amount of noise latency within a given period interval, hwnoise, Raw, μs
+`Max Single <https://docs.kernel.org/tools/rtla/rtla-hwnoise.html#:~:text=The%20Max%20Single>`_, KPI, The maximum latency introduced by a single noise event, hwnoise, Raw, μs
+`HW <https://docs.kernel.org/tools/rtla/rtla-hwnoise.html#:~:text=The%20HW>`_, , The number of hardware related noise events during the given runtime, hwnoise, Raw, Count
+`NMI <https://docs.kernel.org/tools/rtla/rtla-hwnoise.html#:~:text=and%20NMI>`_, , The number of Non-Maskable Interrupts (NMIs) during the given runtime, hwnoise, Raw, Count

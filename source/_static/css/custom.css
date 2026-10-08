@@ -1,0 +1,122 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 1px solid #3498db;
+    padding-bottom: 3px;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+h4, h5, h6 {
+    font-size: 1.5em;
+}
+
+/* Paragraphs */
+p {
+    margin: 10px 0;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+    margin: 10px 0 10px 20px;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Code Blocks */
+pre {
+    background-color: #8ca6c0;
+    color: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+.highlight .na { color: #268bd2; }
+.highlight .s  { color: #2aa198; }
+.highlight .m  { color: #d33682; }
+
+code {
+    font-family: 'Courier New', monospace;
+    background-color: #ecf0f1;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Admonitions (e.g., Notes, Warnings) */
+.admonition {
+    border-left: 4px solid #3498db;
+    background-color: #eaf5fc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.admonition-title {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid #3498db;
+    background-color: #f4f4f4;
+    padding: 10px 20px;
+    margin: 10px 0;
+    font-style: italic;
+}

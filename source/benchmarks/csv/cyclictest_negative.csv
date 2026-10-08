@@ -1,0 +1,7 @@
+Minimum Count Per Core at Median Latency, 669783368
+Minimum Latency (:math:`\mu s`), 2
+Maximum Latency (:math:`\mu s`), 306
+Total (Count), 1266940469
+Total above 10 :math:`\mu s` (Count), 21204
+Total at or above 10 :math:`\mu s` (%), 0.001636111%
+Total at or below 10 :math:`\mu s` (%), 99.998363889%

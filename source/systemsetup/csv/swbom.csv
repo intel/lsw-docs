@@ -1,0 +1,9 @@
+DPDK,24.11
+FlexRAN™,25.07
+Red Hat OpenShift Container Platform,4.20
+ice,5.14.0-570.60.1.el9_6.x86_64+rt
+iavf,5.14.0-570.60.1.el9_6.x86_64+rt
+E825 NVM,4.03
+E830 NVM,1.11
+Real-time Kernel,5.14.0-570.60.1.el9_6.x86_64+rt
+DDP,ICE OS Default Package version 1.3.43.0

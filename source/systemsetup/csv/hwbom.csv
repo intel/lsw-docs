@@ -1,0 +1,6 @@
+Processors,Intel :sup:`®` Xeon :sup:`®` 6 SoC with Intel :sup:`®` vRAN Boost 2.0
+Processor SKU,Intel :sup:`®` Xeon :sup:`®` 6 SoC 6706P-B 40C80T 235W
+DRAM,32GB 2Rx8 6400 MT/s populated 1 DIMM per channel for a total of 128 GB available memory
+Integrated Network Interface Card,Intel :sup:`®` Ethernet Network Adapter E825XXV-DA8 (Gen4 x8) 
+Discrete Network Interface Card,Intel :sup:`®` Ethernet Network Adapter E830XXV-DA8 OCP 3.0
+Storage,M.2 NVMe solution as boot device

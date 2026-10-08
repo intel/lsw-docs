@@ -1,0 +1,6 @@
+Latency Threshold, 15 :math:`\mu s`
+Sample Window, 1000000 :math:`\mu s`
+Sample Width,   950000 :math:`\mu s`
+Non-sampling Period, 50000 :math:`\mu s`
+Max Latency, Below threshold
+Samples exceeding threshold, 0

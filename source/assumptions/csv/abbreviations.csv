@@ -1,0 +1,71 @@
+5GNR,5G Next Generation Radio
+ATIS,Alliance for Telecommunications Industry Solutions
+BIOS,Basic Input/Output System
+BOM,Bill of Materials
+C-RAN,Cloud/Centralized Radio Access Network
+C-State,An individual idle residency for a given CPU core
+CaaS,Container-as-a-Service
+CNF,Containerized Network Function
+CPU,Central Processing Unit
+CU,Centralized RAN Unit
+DIMM,Dual Inline Memory Module
+DPC,DIMM per Channel
+DPDK,Data Plane Development Kit
+DRAM,Dynamic Random-Access Memory
+DU,Distributed RAN Unit
+DUT,Device Under Test
+EFI,Extensible Firmware Interface
+ESMC,Ethernet Synchronization Messaging Channel
+FHGW,Front-haul Gateway
+GbE,Gigabit Ethernet
+gNB,Base Station
+GPS,Global Positioning System
+GNSS,Global Navigation Satellite System
+grub,GRand Unified Bootloader
+HT,Hyper-thread
+HW,Hardware
+IEEE,Institute for Electrical and Electronics Engineers
+IOMMU,Input-Output Memory Management Unit
+IoT,Internet of Things
+IRQ,Interrupt Request
+ISV,Independent Software Vendor
+ITU,International Telecommunication Union
+KPI,Key Performance Indicator
+LOM,LAN on Motherboard
+NMI,Non-Maskable Interrupt
+NF,Network Function
+NFV,Network Function Virtualization
+NUMA,Non-Uniform Memory Access
+MIMO,Multi-Input and Multi-Output
+MSI-X,Message Signaled Interrupt-Extended
+OEM,Original Equipment Manufacturer
+O-RAN,Open Radio Access Network
+OCP,Open Compute Platform
+OS,Operating System
+OSV,Operating System Vendor
+P-State,An individual frequency bin for a given CPU core
+PDV,Packet Delay Variation
+PHC,PTP Hardware Clock
+PPB,Parts per Billion
+PRTC,Primary Reference Time Clock
+PPS,Pulse per Second
+PTP,Precision Timing Protocol
+SDN,Software Defined Networking
+SoC,System on a Chip
+SI,Solution Integrator
+SMI,System Management Interrupt
+SyncE,Synchronous Ethernet
+RAS,Reliability; Availability and Serviceability
+RAN,Radio Access Network
+RDC,Resource and Documentation Center
+RHOCP,Red Hat OpenShift Container Platform
+RT,Real-time
+RU,Radio Unit
+SI,Solution Integrator
+SLA,Service Layer Agreement
+SW,Software
+TDD,Time Division Duplex
+TTI,Transmission Time Interval
+VFIO,Virtual Function Input/Output
+vRAN,Virtualized Radio Access Network
+VNF,Virtualized Network Function
